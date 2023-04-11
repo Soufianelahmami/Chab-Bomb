@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"advance mod 1","desc":"Chat Bomb is an innovative communication application that has gained popularity in recent times. It is a messaging platform that allows users to send multiple messages to different recipients simultaneously.","photo":"https://iili.io/HkDZN6J.webp"},
+  {"title":"how to use this app 2","desc":"With Chat Bomb, users can send text messages, voice notes, and media files, making it a versatile platform for communication.","photo":"https://iili.io/HkDZvvp.jpg"},
+  {"title":"helper pack 3","desc":"One of the most significant advantages of Chat Bomb is its ability to save time. Rather than sending the same message to different people individually, users can send it to a group of people at once. ","photo":"https://iili.io/HkDZkaR.jpg"},
+  {"title":"tips mod 4","desc":"This feature is particularly useful for businesses that need to send out promotional messages or announcements to a large number of customers. With Chat Bomb, businesses can reach their target audience more efficiently and effectively.","photo":"https://iili.io/HkDZe3v.jpg"},
+  {"title":"advice pack 5","desc":"Another advantage of Chat Bomb is its user-friendly interface. The application is easy to navigate, making it accessible to everyone. Users can create groups and add contacts quickly and easily","photo":"https://iili.io/HkDZ8yN.jpg"},
+  {"title":"advance mod 6","desc":"allowing them to start sending messages almost immediately. The app is also available on multiple platforms, including iOS and Android, making it convenient for users to access it on their preferred device.","photo":"https://iili.io/HkDZgjt.jpg"},
+  {"title":"helper pack 7","desc":"enabling them to almost immediately begin transmitting messages. Also, the app is readily accessible on a variety of platforms, including iOS and Android, allowing customers to utilize it on their preferred device.","photo":"https://iili.io/HkDZUuI.webp"},
+  {"title":"how to use this app 8","desc":"Security is another essential aspect of any communication application, and Chat Bomb takes this seriously. The platform uses end-to-end encryption to ensure that messages sent and received are secure and cannot be intercepted by unauthorized parties.","photo":"https://iili.io/HkDZrZX.jpg"}
 
    ]
  
